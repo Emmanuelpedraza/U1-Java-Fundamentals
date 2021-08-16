@@ -5,4 +5,22 @@ public class TimeCrunch {
 
     Example:
      */
+    public static void main(String[] args) {
+
+        double seconds = 3600 ;
+        double hours = seconds/3600;
+
+
+        int minutes = 2;
+        int secondstotal =minutes/2;
+
+        System.out.println(secondstotal);
+        System.out.println(hours);
+
+
+
+
+
+
+    }
 }
